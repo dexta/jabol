@@ -13,5 +13,10 @@ a finger exercise for the complex thinks of thinking, better understanding the l
 supporter helper
 ================
 somewhere has someone did it before, be lacy and pick thinks up from the net...
-[creating your own javascript library](http://www.mikedoesweb.com/2012/creating-your-own-javascript-library/)
-[your own javascript library part events](http://www.mikedoesweb.com/2013/creating-your-own-javascript-library-part-2-event-handling/)
+
+1. javascript library
+  * [creating your own javascript library](http://www.mikedoesweb.com/2012/creating-your-own-javascript-library/)
+  * [your own javascript library part events](http://www.mikedoesweb.com/2013/creating-your-own-javascript-library-part-2-event-handling/)
+
+2. dynamically loading javascript and css files
+  * [load external files with javascript](http://www.javascriptkit.com/javatutors/loadjavascriptcss.shtml)
