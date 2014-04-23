@@ -39,3 +39,9 @@
 	height: 32px;
 	float:left;	
 }
+
+a {
+	text-decoration: none;
+	background-color: #DDD;
+	color: #000;
+}
