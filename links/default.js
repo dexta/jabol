@@ -5,7 +5,7 @@ links["default"] =
 	[ 
 	  {
 	  	name:'jabol',
-	  	url:'http://www.computerbase.de/preisvergleich',
+	  	url:'https://github.com/dexta/jabol',
 	  	comment:'just a bunch of links, bookmarking with Git and JavaScript',
 	  	tags:['git','link','js','javascript','python','webserver']
 	  }
