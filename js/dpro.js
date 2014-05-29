@@ -72,7 +72,8 @@ d.prototype = {
    },
 
    load: function (ftyp,fname) {
-   	  if(ftyp=="js") {
+   	  if(ftyp=="" || fname=="") return;
+        if(ftyp=="js") {
    	  	var fileref=document.createElement('script');
    	  	fileref.setAttribute("type","text/javascript");
    	  	fileref.setAttribute("src",fname);
